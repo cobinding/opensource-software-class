@@ -25,7 +25,7 @@
   * 예) git log --oneline --decorate --graph --all
 -----
 ### 2주차 숙제
-'''
+```bash
 echo "-----------"
 echo "name :"
 echo "추세빈"
@@ -47,4 +47,4 @@ echo
 echo "----------"
 echo "last line :"
 tail -n 1 /home/kau2/k/w2_homework.txt
-'''
+```
